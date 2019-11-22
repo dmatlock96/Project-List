@@ -20,9 +20,6 @@ Web scrapping and information retreival
 ### VoxCeleb
 Audio processing and analytics
 
-### Traffic Cruising Data
-Traffic and parking data
-
 
 ## Computer Science Project List
 List of computer science portfolio projects
