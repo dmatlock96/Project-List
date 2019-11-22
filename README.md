@@ -1,4 +1,6 @@
 # Project-List
+
+## Data Science Project List
 List of data science portfolio projects
 
 ### Yelp Dataset
@@ -15,3 +17,20 @@ Web scrapping and information retreival
 
 ### VoxCeleb
 Audio processing and analytics
+
+## Computer Science Project List
+List of computer science portfolio projects
+
+### FTP Client
+Bild a FTP client that supports secure file transfer
+
+### Web Scraper
+Takes URL as input and returns the conent of the URL as HTML or XML
+
+### Bandwidth Monitor
+Track how much data has been downloaded or uploaded on the internet; weekly report usage email
+
+### Procedurally Generated Map Maker
+Browser-based application that allows users to procedurally generate a terrain map based on a random seed
+
+*More ideas found here: https://www.codementor.io/npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef*
