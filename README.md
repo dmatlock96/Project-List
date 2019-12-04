@@ -25,6 +25,10 @@ Web scrapping and information retreival
 Audio processing and analytics
 *http://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html*
 
+### Bot to Play Game
+Teach a bot to play the game snake
+*https://github.com/maurock/snake-ga*
+
 
 ## Computer Science Project List
 List of computer science portfolio projects
