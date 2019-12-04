@@ -14,7 +14,7 @@ To explore computer vision
 *https://www.kaggle.com/c/severstal-steel-defect-detection*
 
 ### Ames, Iowa Housing Data
-Regression and data exploration
+Regression and data exploration using Apache Spark
 *https://www.kaggle.com/c/house-prices-advanced-regression-techniques*
 
 ### Stock Fundemntal Data Over Time
