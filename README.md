@@ -4,9 +4,12 @@
 ## Data Science Project List
 List of data science portfolio projects
 
+### Data Science Bowl 2019
+My Kaggle notebook (Top 6% in public leaderboard)
 
 ### Yelp Dataset
 To explore natural language processing
+
 *Dataset link: https://www.kaggle.com/yelp-dataset/yelp-dataset/kernels*
 
 ### Severstal: Steel Defect Detection
