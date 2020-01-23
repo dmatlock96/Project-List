@@ -7,6 +7,10 @@ List of data science portfolio projects
 ### 2019 Data Science Bowl
 My Kaggle notebook (Top 6% in public leaderboard)
 
+*Dataset link: https://www.kaggle.com/c/data-science-bowl-2019/data*
+
+*Notebook link: https://github.com/dmatlock96/Project-List/blob/master/2019%20Data%20Science%20Bowl/Daniel_Matlock_2019_Data_Science_Bowl.ipynb*
+
 ### Yelp Dataset
 To explore natural language processing
 
