@@ -16,6 +16,8 @@ To explore natural language processing
 
 *Dataset link: https://www.kaggle.com/yelp-dataset/yelp-dataset/kernels*
 
+*Notebook link: https://github.com/dmatlock96/Project-List/blob/master/Yelp%20Dataset/Daniel_Matlock_Yelp_NLP.ipynb*
+
 ### Severstal: Steel Defect Detection
 To explore computer vision
 
