@@ -4,7 +4,7 @@
 ## Data Science Project List
 List of data science portfolio projects
 
-### Data Science Bowl 2019
+### 2019 Data Science Bowl
 My Kaggle notebook (Top 6% in public leaderboard)
 
 ### Yelp Dataset
