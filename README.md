@@ -23,6 +23,8 @@ To explore computer vision
 
 *Dataset link: https://www.kaggle.com/c/severstal-steel-defect-detection*
 
+*Notebook link: https://github.com/dmatlock96/Project-List/blob/master/Steel%20Defect%20Detection/Daniel_Matlock_Steel_Defect_Comp_Vision.ipynb*
+
 ### Ames, Iowa Housing Data
 Regression and data exploration using Apache Spark
 
