@@ -18,5 +18,7 @@ The project will follow the below outline:
   - Week 3: Begin model building. Learn Detectron2 and play around with weights and biasis and understand what methods are working and what aren't.
   - Week 4: Finish model building. Finish model building and train on entire dataset with GPU (pending CBA approval).
   - Week 5: Deploy model. Deploy model in cloud environment so that anyone can access. Deploy in Docker container on Heroku using Amazon S3 as storage.
+  
+ ### Model Contruction and Deployment Pipeline
 
 ![](Airbnb%20Amenity%20Detection%20Model%20Pipeline.png?raw=true)
